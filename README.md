@@ -10,9 +10,9 @@ This extension provides a way to provide multiple buyers per contract.
 
 This extension adds a buyers’ property to the contract section of OCDS.
 contract.buyers is an OrganizationReference consisting of the following fields:
-• name - The name of the party being referenced. This must match the name of an entry in the parties section.
-• id - The id of the party being referenced. This must match the id of an entry in the parties section.
 
+    • name - The name of the party being referenced. This must match the name of an entry in the parties section.
+    • id - The id of the party being referenced. This must match the id of an entry in the parties section.
 
 ## Example
 
