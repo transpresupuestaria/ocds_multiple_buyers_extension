@@ -23,9 +23,9 @@ contract.buyers is an OrganizationReference consisting of the following fields:
   "title": "SEGUIMIENTO Y CONTROL DE LOS TRABAJOS FALTANTES CONSISTENTES EN LA CONSTRUCCIÓN DE TERRACERÍAS",
   "period": "",
   "valueWithTax": "",
-  "buyers": {
+  "buyers": [{
     "name": "Centro SCT Veracruz",
     "id": "09650"
-    }
+    }]
   }]
 ```
