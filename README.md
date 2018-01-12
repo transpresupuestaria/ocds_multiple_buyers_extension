@@ -1,4 +1,4 @@
-# Multiple buyers per Contract 
+# Multiple Buyers per Contract 
 
 ## Background
 
