@@ -2,10 +2,10 @@
   "definitions": {
     "Contract": {
       "properties": {
-        "buyers": [{
+        "buyers": {
           "type": "array",
           "$ref": "#/definitions/OrganizationReference"
-        }]
+        }
       }
     }
   }

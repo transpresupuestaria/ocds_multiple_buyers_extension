@@ -1,1 +1,11 @@
-{"name":"multiple_buyers","description":"multiple buyers for a contract"}
+{
+  "name": {
+    "en": "Multiple buyers per contract"
+  },
+  "description": {
+    "en": "Adds a buyers array to each contract, allowing one or more buyers to be specified for each individual contract within an overall contracting process."
+  },
+  "documentationUrl": {
+    "en": "https://github.com/transpresupuestaria/ocds_multiple_buyers_extension"
+  }
+}
