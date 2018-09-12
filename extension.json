@@ -7,5 +7,11 @@
   },
   "documentationUrl": {
     "en": "https://github.com/transpresupuestaria/ocds_multiple_buyers_extension"
-  }
+  },
+  "schemas": [
+    "release-schema.json"
+  ],
+  "compatibility": [
+    "1.1"
+  ]
 }
